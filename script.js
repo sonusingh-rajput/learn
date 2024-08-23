@@ -56,5 +56,9 @@
 
 // console.log("1" === 1)
 
+let name = "sonu";
+let number  = 50;
+
+console.log(name + number + " Ram")
 
 
