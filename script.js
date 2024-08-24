@@ -56,9 +56,21 @@
 
 // console.log("1" === 1)
 
-let name = "sonu";
-let number  = 50;
+// let name = "sonu";
+// let raponumber  = 50;
 
-console.log(name + number + " Ram")
+// console.log(name + raponumber + " Ram") // Older
+// console.log(`my name is ${name} and my rapo cout is ${raponumber}`); // Newer
 
+// Declaration of Sring
 
+const gameName = new String("Call of Duty l");
+
+//access of sring
+
+// console.log(gameName);
+// console.log(gameName[6]);
+// console.log(gameName.__proto__);
+// console.log(gameName.length);
+// console.log(gameName.charAt(5));
+console.log(gameName.indexOf("l"));
