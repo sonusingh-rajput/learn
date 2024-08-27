@@ -64,7 +64,7 @@
 
 // Declaration of Sring
 
-const gameName = new String("Call of Duty l");
+// const gameName = new String("Call of Duty l");
 
 //access of sring
 
@@ -73,4 +73,27 @@ const gameName = new String("Call of Duty l");
 // console.log(gameName.__proto__);
 // console.log(gameName.length);
 // console.log(gameName.charAt(5));
-console.log(gameName.indexOf("l"));
+// console.log(gameName.indexOf("l"));
+
+// Number and Math functions
+
+// ++++++++++++++++++++++++++Number +++++++++++++++++++++++++++++
+
+// const scroe = 34343;
+
+// const balance = new Number(2342); // Only Nubmer Defined
+// console.log(balance)
+
+// console.log(balance.toString().length)
+// console.log(balance.toFixed(2))
+
+// const otherNumber = 34343.3434343
+
+// console.log(otherNumber.toPrecision(5))
+
+// const handresds = 1000000000000000000
+// console.log(handresds.toLocaleString("en-IN"))
+
+//++++++++++++++++++++++++++++++ MATH ++++++++++++++++++++++++++++
+
+
